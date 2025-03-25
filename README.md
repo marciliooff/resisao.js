@@ -1,0 +1,1 @@
+# resisao.js
